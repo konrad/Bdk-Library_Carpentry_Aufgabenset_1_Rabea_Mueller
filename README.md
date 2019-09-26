@@ -6,11 +6,11 @@
 
 -
 
-## Eine Fehlermeldung und ihre Lösung
+## 3. Eine Fehlermeldung und ihre Lösung
 
 -
 
-## Was ist JupyterLab?
+## 4. Was ist JupyterLab?
 
 -
 
