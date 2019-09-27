@@ -8,7 +8,8 @@
 
 ## 3. Eine Fehlermeldung und ihre Lösung
 
-### Fehlermeldung
+#### Fehlermeldung
+
 
 ----------------------------------------------------------------------------
 KeyError                                  Traceback (most recent call last)
@@ -16,15 +17,17 @@ KeyError                                  Traceback (most recent call last)
 ----> 1 pmid_data["result"]["title"]
 
 KeyError: 'title'
+
 ----------------------------------------------------------------------------
 
-### Lösung
+#### Lösung
 
 Der Key 'title' befindet sich nicht im Dictionary 'result' sondern im untergeordneten Dictionary '27708327'.
 
 Daher muss der Abfrage lauten:
 
-----> pmid_data["result"]["27708327"]["title"]
+      In: pmid_data["result"]["27708327"]["title"]
+
       Out: 'Democratic databases: science on GitHub.'
 
 
