@@ -35,9 +35,9 @@ Daher muss der Abfrage lauten:
 
 ## 4. Was ist JupyterLab?
 
--Jupyter Notebook ist eine webbasierte interaktive Berechnungsumgebung zur Erstellung von Jupyter Notebooks-Dokumenten und wird hauptsächlich für die Datenanalyse, Datenvisualisierung und weitere interaktive, explorative Berechnungen verwendet.
+Jupyter Notebook ist eine webbasierte interaktive Berechnungsumgebung zur Erstellung von Jupyter Notebooks-Dokumenten und wird hauptsächlich für die Datenanalyse, Datenvisualisierung und weitere interaktive, explorative Berechnungen verwendet.
 
-JupyterLab ist die Benutzeroberfläche der neuesten Generation mit Notebooks. Es ist modular aufgebaut, so dass man mehrere Notebooks oder Dateien (z.B. HTML, Text, Markdowns etc.) als Registerkarten im gleichen Fenster öffnen können. Außerdem kann eine Code-Konsole mit dem Notebook Kernel verknüpft werden.  Es bietet viel mehr ein IDE-ähnliches Erlebnis.
+JupyterLab ist die Benutzeroberfläche der neuesten Generation mit Notebooks. Es ist modular aufgebaut, so dass man mehrere Notebooks oder Dateien (z.B. HTML, Text, Markdowns etc.) als Registerkarten im gleichen Fenster öffnen kann. Außerdem kann eine Code-Konsole mit dem Notebook Kernel verknüpft werden.  Es bietet viel mehr ein IDE-ähnliches Erlebnis.
 
-Für einen Anfänger ist es sinnvoll  mit Jupyter Notebook zu beginnen, da es nur aus einem Dateibrowser und einer (Notebook-)Editoransicht besteht und daher leichter zu bedienen ist.  Wenn man mehr Funktionen benötigt, ist JupyterLab die bessere Wahl. JupyterLab bietet viel mehr Funktionen und eine verbesserte Oberfläche, die durch Erweiterungen ausgebaut werden kann.
+Für einen Anfänger ist es sinnvoll  mit Jupyter Notebook zu beginnen, da es nur aus einem Dateibrowser und einer (Notebook-)Editoransicht besteht und daher leichter zu bedienen ist. Wenn man mehr Funktionen benötigt, ist JupyterLab die bessere Wahl. JupyterLab bietet viel mehr Funktionen und eine verbesserte Oberfläche, die durch Erweiterungen ausgebaut werden kann.
 
