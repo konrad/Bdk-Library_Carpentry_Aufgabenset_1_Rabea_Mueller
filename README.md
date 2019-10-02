@@ -4,7 +4,9 @@
 
 ## 2. Eine Python-Bibliothek
 
--
+Bokeh
+
+Bokeh ist eine Bibliothek für interaktive Datenvisualisierung. Im Gegensatz zu Matplotlib rendert Bokeh seine Grafiken mit HTML und Java Script. Daher eignet es sich für die Erstellung von webbasierten Dashboards und Anwendungen. Es ist ein ebenso mächtiges Werkzeug, um Daten zu erforschen, zu verstehen, zu analysieren oder benutzerdefinierte Diagramme für ein Projekt oder einen Bericht zu erstellen.
 
 ## 3. Eine Fehlermeldung und ihre Lösung
 
