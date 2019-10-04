@@ -26,7 +26,7 @@ KeyError: 'title'
 
 Der Key 'title' befindet sich nicht im Dictionary 'result' sondern im untergeordneten Dictionary '27708327'.
 
-Daher muss der Abfrage lauten:
+Daher muss die Abfrage lauten:
 
       In: pmid_data["result"]["27708327"]["title"]
 
