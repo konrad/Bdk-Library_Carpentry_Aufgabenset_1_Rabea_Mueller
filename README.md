@@ -28,10 +28,10 @@ Der Key 'title' befindet sich nicht im Dictionary 'result' sondern im untergeord
 
 Daher muss die Abfrage lauten:
 
-      In: pmid_data["result"]["27708327"]["title"]
-
-      Out: 'Democratic databases: science on GitHub.'
-
+``` 
+In: pmid_data["result"]["27708327"]["title"]
+Out: 'Democratic databases: science on GitHub.'
+```
 
 ## 4. Was ist JupyterLab?
 
