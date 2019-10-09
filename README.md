@@ -13,14 +13,13 @@ Bokeh ist eine Bibliothek für interaktive Datenvisualisierung. Im Gegensatz zu 
 #### Fehlermeldung
 
 
-----------------------------------------------------------------------------
+```
 KeyError                                  Traceback (most recent call last)
 <ipython-input-25-c4d5bcbc477b> in <module>
 ----> 1 pmid_data["result"]["title"]
 
 KeyError: 'title'
-
-----------------------------------------------------------------------------
+```
 
 #### Lösung
 
