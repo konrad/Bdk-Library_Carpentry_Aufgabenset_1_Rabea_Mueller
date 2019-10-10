@@ -40,3 +40,4 @@ JupyterLab ist die Benutzeroberfläche der neuesten Generation mit Notebooks. Es
 
 Für einen Anfänger ist es sinnvoll  mit Jupyter Notebook zu beginnen, da es nur aus einem Dateibrowser und einer (Notebook-)Editoransicht besteht und daher leichter zu bedienen ist. Wenn man mehr Funktionen benötigt, ist JupyterLab die bessere Wahl. JupyterLab bietet viel mehr Funktionen und eine verbesserte Oberfläche, die durch Erweiterungen ausgebaut werden kann.
 
+# 5. San Francisco
